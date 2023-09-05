@@ -1,0 +1,28 @@
+.row3 {
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    column-gap: 50px;
+    margin-bottom: 50px;
+}
+.left_column .right_column {
+    margin: 0 auto;
+    vertical-align: middle;
+}
+.left_column {
+    width: 50%;
+}
+.right_column {
+    width: 50%;
+}
+.service_img {
+    width: 100%;
+}
+.column3 h3 {
+    font-size: 15pt;
+    display: inline-flex;
+}
+.right_column p {
+    display: block;
+    height: 100%;
+}

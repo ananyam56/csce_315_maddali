@@ -1,0 +1,30 @@
+.technical_proj {
+    display: inline-block;
+}
+.row1 {
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    column-gap: 50px;
+    margin-top: 50px;
+}
+.column1 {
+    width: 50%;
+    margin: 0 auto;
+    vertical-align: middle;
+}
+.tech_img {
+    width: 300px;
+    display: inline-block;
+    margin-right: 20px;
+}
+.tech_description {
+    display: inline-block;
+    vertical-align: top;
+}
+.tech_git {
+    font-style: italic;
+}
+.technical_proj {
+    margin-bottom: 50px;
+}
